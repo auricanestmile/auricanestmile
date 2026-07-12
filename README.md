@@ -1,6 +1,6 @@
 <div align="center">
 <h2>If you came here from my Polytoria profile...</h2>
-<p>You're looking for the new Infinity Adventure website with a guide and forums, I presume.<br>The URL is dejiko dot rf dot gd. (not hotlinked to avoid crawling)</p>
+<p>You're looking for the new Infinity Adventure website with a guide and forums, I presume.<br>The URL is dejiko dot rf dot gd. (not hyperlinked to avoid crawling)</p>
 <p><a href="iacrp-troubleshooting.md">You can also read a mirror of it directly on GitHub if the design on the site is annoying,</a></p>
 <p>Otherwise, all I have on this profile is a stupid gif. Enjoy.<br>I do plan to dump all my old 1.0 era spaghetti code scripts on here soon.</p>
 </div>
